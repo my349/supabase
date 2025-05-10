@@ -525,4 +525,4 @@ services:
       ]
 
 volumes:
-  db-config:
+  db-config:/etc/postgresql-custom
